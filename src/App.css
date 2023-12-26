@@ -247,6 +247,12 @@ display:flex;
 justify-content:center;
 align-items:center;
 }
+.page404{
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
 .ak_form-control{
 border:none!important;
 border-bottom:2px solid var(--primary-color)!important;
